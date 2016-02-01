@@ -1,0 +1,71 @@
+body {
+	background-image: url("images/weights2.jpg");
+	background-repeat: no-repeat;
+	text-align: center; 
+}
+
+#logo {
+	text-align: center;
+	padding-top: 3%;
+}
+
+#login {
+    padding-top: 3%;
+    padding-left: 45%;
+    text-align: center;
+    width: 130px;
+}
+
+#username {
+	margin-bottom: 10px;
+}
+
+#password {
+	margin-bottom: 10px;
+}
+
+#logButton {
+	float: right;
+}
+
+h1, h2{
+	text-align: center;
+	color: #FF6600;
+}
+
+b {
+	text-align: center;
+	font-size: 25;
+	color: #FF6600;
+} 
+
+a {
+	color: yellow;
+}
+
+#logout {
+	color: yellow;	
+}
+
+form {
+	text-align: center; 
+	color: yellow;
+	font-size: 20;	
+} 
+
+.center {
+	padding-left: 46%;
+	padding-top: 10px;
+}
+
+.bcenter {
+	padding-top: 150px;
+}
+
+.vis {
+	color: yellow;
+}
+
+.visual {
+	background-color: black;
+}
